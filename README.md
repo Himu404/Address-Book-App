@@ -11,7 +11,7 @@ A simple Java GUI app to store and manage names and addresses.
 Entries are saved in `addressBook.txt`.
 
 ## 🖼️ UI Preview
-![App UI](screenshot.png)
+![App UI](Screenshot.png)
 
 ## 🚀 Run
 ```bash
